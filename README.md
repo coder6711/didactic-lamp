@@ -1,1 +1,1 @@
-# didactic-lamp
+# Project Template 26
